@@ -1,36 +1,21 @@
 # Resources Bot
 
 ## Introduction
-Resources Bot is a powerful implementation designed to help users manage and access various resources efficiently.
+A powerful resources-bot implementation for efficient task automation and resource management.
 
 ## Features
-- User-friendly interface
-- Customizable resource management
-- Integration with various APIs
+- Automates repetitive tasks
+- Provides resource suggestions
+- Integrates with various platforms
 
-## Technology Stack
-- Node.js
-- Express
-- MongoDB
+## Tech Stack
+- Python
+- Flask
 
 ## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/resources-bot.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the server:
-   ```bash
-   npm start
-   ```
+1. Clone the repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run the bot with `python app.py`.
 
 ## Future Plans
-- Implement user authentication
-- Add more resource types
-- Improve performance and scalability
-
-## Contributing
-Feel free to submit issues or pull requests for any enhancements or bug fixes!
+- Enhance AI capabilities for better resource suggestions.
